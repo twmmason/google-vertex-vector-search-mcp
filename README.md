@@ -1,4 +1,4 @@
-# VertexMemory
+# VertexMemory - Google Vertex AI / Vector Search MCP Server
 
 VertexMemory is your memory layer for LLMs using Google Vertex AI Vector Search - private, portable, open-source MCP Server. Your memories live locally, giving you complete control over your data. Build AI applications with sophisticated vector search integration..
 
