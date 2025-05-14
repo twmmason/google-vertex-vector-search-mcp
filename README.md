@@ -1,8 +1,6 @@
 # VertexMemory
 
-VertexMemory is your personal memory layer for LLMs - private, portable, and open-source. Your memories live locally, giving you complete control over your data. Build AI applications with personalized memories while keeping your data secure.
-
-![VertexMemory](https://github.com/user-attachments/assets/3c701757-ad82-4afa-bfbe-e049c2b4320b)
+VertexMemory is your memory layer for LLMs using Google Vertex AI Vector Search - private, portable, and open-source. Your memories live locally, giving you complete control over your data. Build AI applications with personalized memories while keeping your data secure.
 
 ## Prerequisites
 
